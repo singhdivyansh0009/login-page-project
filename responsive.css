@@ -1,0 +1,52 @@
+@media(max-width:486px){
+    .maindiv{
+        margin-top: 0em;
+        margin-left: 0vw;
+        width: 100vw;
+        height: 30em;
+      }
+      .input{
+        width: auto;
+        font-size: 20px;
+        box-shadow: 3px 3px 10px inset rgb(0, 0, 0);
+      }
+      ::placeholder{
+        font-size: 20px;
+    }
+    h1{
+       font-size: 40px;
+       margin-top: 2.5em;
+    }
+     button{
+        margin-top: 1.5em;
+        width: 30vw;
+        height: 2.5em;
+        font-size: 20px;
+     }
+     .check{
+        margin-right: 35%;
+        font-size: 20px;
+     }
+     h2{
+        margin-top: 2em;
+     }
+     h2:before{
+        width: 35vw;
+     }
+     h2:after{
+        width: 35vw;
+     }
+     #link1{
+        margin-right: 10vw ;
+    }
+    #link2{
+        margin-right: 10vw ;
+    }
+    .link,span{
+        color: aliceblue;
+        font-size: 23px;
+    }   
+    #register{
+        font-size: 25px;
+    }  
+}
