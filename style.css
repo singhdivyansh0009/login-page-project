@@ -126,3 +126,10 @@ h2:after{
 #register:hover{
     color:rgb(48, 110, 233);
 }
+#forgot{
+    color: aliceblue;
+    font-size: 18px;
+    margin-left: 2vw;
+    display: block;
+    margin-top: 1em;
+}
