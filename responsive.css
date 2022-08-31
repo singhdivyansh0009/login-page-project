@@ -1,4 +1,7 @@
 @media(max-width:486px){
+    body{
+      overflow-y:visible;
+    }
     .maindiv{
         margin-top: 0em;
         margin-left: 0vw;
