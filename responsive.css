@@ -1,12 +1,14 @@
 @media(max-width:486px){
-    body{
-      overflow-y:visible;
-    }
+   body{
+      overflow-y:visible ;
+      background: url("background2.webp") no-repeat;
+   }
     .maindiv{
         margin-top: 0em;
         margin-left: 0vw;
         width: 100vw;
-        height: 30em;
+        height: 60em;
+        background: none;
       }
       .input{
         width: auto;
@@ -22,9 +24,10 @@
     }
      button{
         margin-top: 1.5em;
-        width: 30vw;
+        width: 25vw;
         height: 2.5em;
         font-size: 20px;
+        margin-bottom: 1em;
      }
      .check{
         margin-right: 35%;
@@ -51,19 +54,19 @@
     }   
     #register{
         font-size: 25px;
-    }  
-        .control{
-      box-shadow: 5px 5px 20px black;
-      width: 95vw;
+    } 
+    .control{
+      box-shadow: 2px 2px 20px  rgb(0, 0, 0);;
+      width: 85vw;
       height: auto;
-      margin-left: 2vw;
-      margin-top: 1em;  
+      margin-left: 7vw;
+      margin-top: 1em; 
     } 
     .subdiv{
-      box-shadow: 5px 5px 30px black;
-      width: 95vw;
+      box-shadow: 2px 2px 20px rgb(0,0, 0);
+      width: 85vw;
       height: auto;
-      margin-left: 2vw;
+      margin-left: 7vw;
       margin-top: 1em;  
       padding-top: 1em;
       padding-bottom: 1em;
